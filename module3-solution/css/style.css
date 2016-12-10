@@ -1,0 +1,87 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color:  #0b004a;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER**/
+#header-nav{
+	background-color: #ffda85; 
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Food, LLC */
+  font-family: arial, times, serif;
+  color: #0b004a;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}*/
+p {
+	padding: 10px;
+	margin: 0;
+  
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #0b004a;
+}
+.container {
+	 
+	margin-left: 10px;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 12px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: #ffda85;
+	height: auto;
+	font-family:verdana ;
+	color: black;
+  font-size: 95%;
+	position: relative;
+}
+
+#chicken {
+	text-align: center;
+	font-family: arial,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#beef {
+	text-align: center;
+	font-family: arial,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#sushi {
+	text-align: center;
+	font-family:arial,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
